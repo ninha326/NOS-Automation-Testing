@@ -1,0 +1,1 @@
+Os testes realizados tem alguns falhados de propósito, alguns não estavam de acordo com o que foi solicitado que foi o caso do status estar em completed, como tem alguns com status "pending" então falhou o caso.
